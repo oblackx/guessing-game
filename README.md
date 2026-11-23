@@ -7,3 +7,7 @@ Number of lines in guessinggame.sh: 33
 ## Features
 - Simple number guessing game
 - Written in Bash
+- Interactive gameplay with hints
+
+## How to Play
+Run `./guessinggame.sh` and follow the prompts!
